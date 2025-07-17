@@ -88,13 +88,6 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](./LICENSE) file for details.
-
----
-
 ## 📬 Contact
 
 If you’d like to get in touch:
