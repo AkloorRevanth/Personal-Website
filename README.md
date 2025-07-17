@@ -1,71 +1,107 @@
-Personal Website
+# 🌐 Personal Website
 
-Project Overview
+Welcome to the source code of my **Personal Website**, designed to showcase my **portfolio**, **skills**, **projects**, and **contact information**. This responsive and interactive site is built with HTML, CSS, and JavaScript, and is hosted on **GitHub Pages**.
 
-This repository contains the source code for a personal website developed to showcase my portfolio, professional skills, and contact information. The site is designed to provide a professional online presence and is deployed using GitHub Pages.
+---
 
-Technologies Used
+## 🚀 Live Demo
 
-HTML: 50.4% - Core structure of the website.
+🔗 [Visit My Website](https://akloorrevanth.github.io/Personal-Website/)
 
-CSS: 38.6% - Styling and responsive design.
+---
 
-JavaScript: 11.0% - Interactive features and functionality.
+## 🛠️ Technologies Used
 
-Project Structure
+| Technology | Usage |
+|------------|--------|
+| **HTML**   | 50.4% – Core structure of the website |
+| **CSS**    | 38.6% – Styling and responsive layout |
+| **JavaScript** | 11.0% – Interactivity and dynamic content |
 
-assets/: Directory for static assets (e.g., images, fonts).
+---
 
-about.html: About page content.
+## 📁 Project Structure
 
-contact.html: Contact information and form.
+```
 
-contact.css: Styling for the contact page.
+📁 assets/             → Static assets (images, fonts)
+📄 index.html          → Homepage
+📄 about.html          → About section
+📄 contact.html        → Contact info and form
+📄 education.html      → Educational background
+📄 experience.html     → Work experience
+📄 skills.html         → Skill set overview
+📄 work.html           → Project showcase
 
-education.html: Educational background.
+📄 style.css           → Global styles
+📄 contact.css         → Contact page styles
+📄 skills.css          → Skills section styles
+📄 work.css            → Project section styles
 
-experience.html: Professional experience.
+📄 script.js           → Global JavaScript
+📄 work.js             → Work page scripts
+📄 skills.json         → Skills data (used in visualization)
 
-index.html: Homepage.
+📄 README.md           → Project documentation
+📄 LICENSE             → MIT License
 
-script.js: JavaScript functionality.
+````
 
-skills.html: Skills overview.
+---
 
-skills.json: Data file for skills visualization.
+## 💻 Installation and Usage
 
-skills.css: Styling for the skills page.
+To run the website locally:
 
-style.css: Global CSS styles.
+```bash
+# Clone the repository
+git clone https://github.com/AkloorRevant/Personal-Website.git
 
-work.html: Work/projects page.
+# Navigate to the project directory
+cd Personal-Website
 
-work.js: JavaScript for the work page.
+# Open in browser
+Open index.html in your preferred browser
+````
 
-work.css: Styling for the work page.
+---
 
-README.md: This file.
+## 🚢 Deployment
 
-Installation and Usage
+This website is deployed using **GitHub Pages**.
+Visit the live site here:
+🔗 [https://akloorrevanth.github.io/Personal-Website/](https://akloorrevanth.github.io/Personal-Website/)
 
-Clone the repository:  git clone https://github.com/AkloorRevant/Personal-Website.git
+---
 
-Navigate to the project directory.
+## 🤝 Contributing
 
-Open index.html in a web browser to view the site locally.
+Contributions are welcome!
 
-Deployment
+* Fork this repository
+* Create a new branch (`git checkout -b feature-name`)
+* Make your changes
+* Commit and push (`git commit -m "Your message" && git push origin feature-name`)
+* Open a **pull request** describing your changes
 
-The website is hosted on GitHub Pages. Access it live at: [https://akloorrevanth.github.io/Personal-Website/].
+> For significant updates, please open an issue first to discuss your idea.
 
-Contributing
+---
 
-Contributions are welcome. Please fork this repository and submit pull requests with detailed descriptions of changes. For major updates, kindly open an issue to discuss the proposed changes beforehand.
+## 📄 License
 
-License
+This project is licensed under the **MIT License**.
+See the [LICENSE](./LICENSE) file for details.
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+---
 
-Contact
+## 📬 Contact
 
-For inquiries, please reach out via the contact form on the website or email [arevanth27@gmail.com].
+If you’d like to get in touch:
+
+* 📧 Email: [arevanth27@gmail.com](mailto:arevanth27@gmail.com)
+* 💬 Or use the contact form on the website!
+
+---
+
+Thank you for visiting! 🌟
